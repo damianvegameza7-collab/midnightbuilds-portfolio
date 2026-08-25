@@ -3,6 +3,7 @@
 using namespace std;
 
 //use for assignment
+//core dump issue
 void insert(vector <int> &number, int idx){
     int key = number[idx];
     int i;
